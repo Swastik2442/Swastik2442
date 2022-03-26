@@ -50,7 +50,7 @@ Hi there 👋🏻 Myself Swastik. I'm a high school student and I have a bit of 
 
 ### <i> Stats </i>
 
-[![Top Langs](https://github-readme-stats-lime-xi.vercel.app/api/top-langs?username=Swastik2442&exclude_repo=spotify-readme,Games,github-readme-stats&layout=compact&bg_color=45,1aa4b8,1a9cb8,1a94b8,1a8cb8,1a84b8&theme=vision-friendly-dark&hide_title=true&langs_count=10&hide_border=true)](https://github.com/Swastik2442) <!-- Detailed Info here ~ https://github-readme-stats.vercel.app/api/wakatime?username=Swastik2442 -->
+[![Top Langs](https://github-readme-stats-lime-xi.vercel.app/api/top-langs?username=Swastik2442&exclude_repo=spotify-readme,Games,github-readme-stats&layout=compact&theme=vision-friendly-dark&hide_title=true&langs_count=10&hide_border=true)](https://github.com/Swastik2442) <!-- Detailed Info here ~ https://github-readme-stats.vercel.app/api/wakatime?username=Swastik2442 -->
 <br>
 
 <hr>

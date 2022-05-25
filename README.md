@@ -1,4 +1,4 @@
-<!--Copyright 2022 Swastik2442 <https://Swastik2442.github.io/>-->
+<!--Copyright 2022 Swastik2442 <https://swastik2442.github.io/>-->
 
 <hr>
 <div align = "center">
@@ -25,16 +25,34 @@ Hi there 👋🏻 Myself Swastik. I'm a high school student and I have a bit of 
     
 ### <i> Programming Languages </i>
 
-[![C](./Icons/c.svg)]()
-[![C#](./Icons/c%23.svg)]()
-[![C++](./Icons/cpp.svg)]()
-[![HTML](./Icons/html.svg)]()
-[![CSS](./Icons/css.svg)]()
-[![JavaScript](./Icons/javascript.svg)]()
-[![Java](./Icons/java.svg)](https://www.java.com/)
-[![mySQL](./Icons/mysql.svg)](https://www.mysql.com/)
-[![Python](./Icons/python.svg)](https://www.python.org/)
-[![Ruby](./Icons/ruby.svg)](https://www.ruby-lang.org/)
+![C](./Icons/c.svg)
+![C#](./Icons/c-sharp.svg)
+![C++](./Icons/cpp.svg)
+![HTML](./Icons/html.svg)
+![CSS](./Icons/css.svg)
+![JavaScript](./Icons/javascript.svg)
+![Java](./Icons/java.svg)
+![Python](./Icons/python.svg)
+![Ruby](./Icons/ruby.svg)
+
+### <i> Tools & Libraries </i>
+
+![Bootstrap](./Icons/bootstrap.svg)
+![Django](./Icons/django.svg)
+![Flask](./Icons/flask.svg)
+![Flutter](./Icons/flutter.svg)
+![NodeJS](./Icons/nodejs.svg)
+![Tailwind CSS](./Icons/tailwind.svg)
+
+![Blender 3D](./Icons/blender.svg)
+![Gimp](./Icons/gimp.svg)
+![OBS Studio](./Icons/obs.svg)
+![Adobe Photoshop](./Icons/photoshop.svg)
+
+![Heroku](./Icons/heroku.svg)
+![MongoDB](./Icons/mongodb.svg)
+
+![VS Code](./Icons/vs-code.svg)
 
 <hr>
 

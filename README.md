@@ -7,7 +7,7 @@
     
 ### <i> About Me</i>
     
-Hi there 👋🏻 Myself Swastik. I'm a high school student and I have a bit of experience in coding stuff. Aside of Coding, I also like doing stuff like listening to songs, playing games and chat with my friends on Discord.
+Hi there 👋🏻 Myself Swastik. I'm an undergraduate student and I have a bit of experience in programming. Aside of Programming & all that computer stuff, I also like doing stuff like listening to songs, playing games and chat with my friends.
 </div>
 <div align = "center">
 <hr>
@@ -17,8 +17,16 @@ Hi there 👋🏻 Myself Swastik. I'm a high school student and I have a bit of 
 ### <i> My Profiles </i>
 
 [![Twitter Profile](./Icons/twitter.svg)](https://twitter.com/SwastikofIndia)
-[![Steam Profile](./Icons/steam.svg)](https://steamcommunity.com/profiles/76561198984209411) 
-[![Spotify](./Icons/spotify.svg)](https://open.spotify.com/user/iixxrn70fbza27p1c6q32fepo)
+[![Instgram Profile](./Icons/instagram.svg)](https://instagram.com/k.wastik) 
+[![LinkedIn Profile](./Icons/linkedin.svg)](https://www.linkedin.com/in/Swastik2442)
+[![Spotify Profile](./Icons/spotify.svg)](https://open.spotify.com/user/iixxrn70fbza27p1c6q32fepo)
+
+### <i> Online Judges </i>
+
+[![HackerRank Profile](./Icons/hackerrank.png)](https://www.hackerrank.com/Swastik2442)
+[![CodeChef Profile](./Icons/codechef.svg)](https://www.codechef.com/users/swastik2442/) 
+[![GeeksForGeeks Profile](./Icons/geeksforgeeks.svg)](https://auth.geeksforgeeks.org/user/swastik2442)
+[![HackerEarth Profile](./Icons/hackerearth.png)](https://www.hackerearth.com/@Swastik2442)
 <hr>
     
 <!--Languages & Tools Used-->
@@ -31,9 +39,9 @@ Hi there 👋🏻 Myself Swastik. I'm a high school student and I have a bit of 
 ![HTML](./Icons/html.svg)
 ![CSS](./Icons/css.svg)
 ![JavaScript](./Icons/javascript.svg)
+![TypeScript](./Icons/typescript.svg)
 ![Java](./Icons/java.svg)
 ![Python](./Icons/python.svg)
-![Ruby](./Icons/ruby.svg)
 
 ### <i> Tools & Libraries </i>
 

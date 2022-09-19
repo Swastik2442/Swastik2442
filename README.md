@@ -68,7 +68,7 @@ Hi there 👋🏻 Myself Swastik. I'm an undergraduate student and I have a bit 
 
 ### <i> Stats </i>
 
-[![Top Langs](https://github-readme-stats-lime-xi.vercel.app/api/top-langs?username=Swastik2442&exclude_repo=cs-notes,spotify-readme,Games,github-readme-stats&layout=compact&theme=vision-friendly-dark&hide_title=true&langs_count=10&hide_border=true)](https://github.com/Swastik2442)
+[![Top Langs](https://github-readme-stats-lime-xi.vercel.app/api/top-langs?username=Swastik2442&exclude_repo=CS-Notes,spotify-readme,Games,github-readme-stats&layout=compact&theme=vision-friendly-dark&hide_title=true&langs_count=10&hide_border=true)](https://github.com/Swastik2442)
 
 <hr>
 </div>

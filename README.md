@@ -24,9 +24,9 @@ Hi there 👋🏻 Myself Swastik. I'm an undergraduate student and I have a bit 
 ### <i> Online Judges </i>
 
 [![HackerRank Profile](./Icons/hackerrank.png)](https://www.hackerrank.com/Swastik2442)
-[![CodeChef Profile](./Icons/codechef.svg)](https://www.codechef.com/users/swastik2442/) 
 [![GeeksForGeeks Profile](./Icons/geeksforgeeks.svg)](https://auth.geeksforgeeks.org/user/swastik2442)
 [![HackerEarth Profile](./Icons/hackerearth.png)](https://www.hackerearth.com/@Swastik2442)
+    
 <hr>
     
 <!--Languages & Tools Used-->

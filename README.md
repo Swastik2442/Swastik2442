@@ -16,16 +16,9 @@ Hi there 👋🏻 Myself Swastik. I'm an undergraduate student and I have a bit 
     
 ### <i> My Profiles </i>
 
-[![Instgram Profile](./assets/instagram.png)](https://instagram.com/k.wastik) 
-[![Twitter Profile](./assets/twitter.png)](https://twitter.com/SwastikofIndia)
-[![LinkedIn Profile](./assets/linkedin.png)](https://www.linkedin.com/in/Swastik2442)
-[![Spotify Profile](./assets/spotify.png)](https://open.spotify.com/user/iixxrn70fbza27p1c6q32fepo)
-
-### <i> Online Judges </i>
-
-[![HackerRank Profile](./assets/hackerrank.png)](https://www.hackerrank.com/Swastik2442)
-[![CodeChef Profile](./assets/codechef.png)](https://www.codechef.com/users/jk21050)
-[![HackerEarth Profile](./assets/hackerearth.png)](https://www.hackerearth.com/@Swastik2442)
+[![Twitter Profile](https://img.icons8.com/fluency/48/twitter.png)](https://twitter.com/SwastikofIndia)
+[![LinkedIn Profile](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/Swastik2442)
+[![Instgram Profile](https://img.icons8.com/fluency/48/instagram-new.png)](https://instagram.com/k.wastik) 
     
 <hr>
 

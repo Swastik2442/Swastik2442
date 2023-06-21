@@ -6,6 +6,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Swastik2442)](https://git.io/streak-stats)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/600286650509295616?hideDiscrim=true&idleMessage=Probably%20AFK)](https://discord.com/channels/@me/600286650509295616)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/600286650509295616?showDisplayName=true&idleMessage=Probably%20AFK)](https://discord.com/channels/@me/600286650509295616)
 
 ![Spotify Song](https://spotify-readme-blond.vercel.app/api/spotify)

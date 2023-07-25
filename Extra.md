@@ -1,8 +1,8 @@
 ![GitHub Stats](https://github-profile-trophy.vercel.app/?username=Swastik2442&theme=tokyonight&no-frame=true&no-bg=true&column=6)
 
-![Swastik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swastik2442)
+![GitHub Language Stats](https://github-readme-stats-lime-xi.vercel.app/api/top-langs?username=Swastik2442&exclude_repo=github-readme-stats&hide=jupyter%20notebook&layout=compact&langs_count=10)
 
-![Swastik2442's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Swastik2442)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Swastik2442)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Swastik2442)](https://git.io/streak-stats)
 

@@ -7,16 +7,16 @@
     
 ### <i> About Me</i>
     
-Hi there 👋🏻 Myself Swastik. I'm an undergraduate student and I have a bit of experience in programming. Aside of Programming & all that computer stuff, I also like doing stuff like listening to songs, playing games and chat with my friends.
+Hi there 👋🏻 myself Swastik. I'm an undergraduate student and have a bit of experience in programming. Aside of Programming & all that computer stuff, I also like doing stuff like listening to songs, playing games and chat with my friends.
 </div>
 <div align = "center">
 <hr>
 
 <!--Personal Profiles-->
     
-### <i> My Profiles </i>
+### <i> Social Profiles </i>
 
-[![Twitter Profile](https://img.icons8.com/fluency/48/twitter.png)](https://twitter.com/SwastikofIndia)
+[![Twitter Profile](https://img.icons8.com/fluency/48/twitter.png)](https://twitter.com/swastik2442)
 [![LinkedIn Profile](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/Swastik2442)
 [![Instgram Profile](https://img.icons8.com/fluency/48/instagram-new.png)](https://instagram.com/k.wastik) 
     
@@ -26,7 +26,7 @@ Hi there 👋🏻 Myself Swastik. I'm an undergraduate student and I have a bit 
 
 ### <i> GitHub Stats </i>
 
-[![Top Langs](https://github-readme-stats-lime-xi.vercel.app/api?username=Swastik2442&theme=vision-friendly-dark&hide_title=true)](https://github.com/Swastik2442)
+[![Top Langs](https://github-readme-stats-lime-xi.vercel.app/api?username=Swastik2442&theme=vision-friendly-dark&hide_title=true&show_icons=true)](https://github.com/Swastik2442)
 
 <hr>
 </div>

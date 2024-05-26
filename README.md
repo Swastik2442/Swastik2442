@@ -7,17 +7,7 @@
 
 ### *About Me*
 
-Hi there 👋 I'm Swastik. I'm an Undergraduate Student and I have a bit of experience in Programming. Aside of Programming & all that Computer stuff, I also like doing things like listening to Songs, playing Games and chatting with my Friends.
-
-<hr>
-
-<!--Personal Profiles-->
-
-### *Social Profiles*
-
-[![Twitter Profile](https://img.icons8.com/fluency/48/twitterx.png)](https://twitter.com/swastik2442)
-[![LinkedIn Profile](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/Swastik2442)
-[![Instgram Profile](https://img.icons8.com/fluency/48/instagram-new.png)](https://www.instagram.com/k.wastik)
+Hi there 👋 I'm Swastik. I'm an Undergraduate Student and have a bit of experience in Programming. Aside of Programming & all that Computer stuff, I also like doing things such as listening to Songs and playing Games.
 
 <hr>
 
